@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Tman2240.
+- 👀 I’m interested in automation and Discord integration in software development.
+- 🌱 I’m currently learning Python and Java.
